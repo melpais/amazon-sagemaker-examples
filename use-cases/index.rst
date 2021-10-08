@@ -44,6 +44,17 @@ Computer Vision for Medical Imaging
     computer_vision/4-metastases-detection-pipeline
 
 
+
+Healthcare
+--------------------------
+
+.. toctree::
+    :maxdepth: 2
+
+    healthcare/breast_cancer/xgboost_breast_cancer
+
+
+
 Pipelines with NLP for Product Rating Prediction
 ------------------------------------------------
 
