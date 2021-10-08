@@ -33,7 +33,7 @@ E-Commerce Personalization
 
 
 Computer Vision for Medical Imaging
---------------------------
+-----------------------------------
 
 .. toctree::
     :maxdepth: 1
@@ -44,6 +44,7 @@ Computer Vision for Medical Imaging
     computer_vision/4-metastases-detection-pipeline
 
 
+
 Healthcare
 --------------------------
 
@@ -51,3 +52,13 @@ Healthcare
     :maxdepth: 2
 
     healthcare/breast_cancer/xgboost_breast_cancer
+
+
+
+Pipelines with NLP for Product Rating Prediction
+------------------------------------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   product_ratings_with_pipelines/pipelines_product_ratings
